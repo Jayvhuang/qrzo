@@ -1,0 +1,29 @@
+# Qrzo
+
+Qrzo is a free, bilingual (English / 中文) QR code toolkit that runs entirely in the user's web browser. It generates and decodes QR codes with no upload, no sign-up, and no watermarks.
+
+## What Qrzo does
+- Generate scannable QR codes for: URLs, plain text, WiFi credentials, contact cards (vCard), email, SMS, and calendar events (vCalendar).
+- Customize QR codes: foreground/background colors, module size, error-correction level (L/M/Q/H), and an optional center logo.
+- Download QR codes as high-resolution PNG or scalable SVG.
+- Scan and decode any QR image (screenshot or photo) entirely on the device.
+
+## Why it is private
+All encoding and decoding happen client-side in JavaScript. The content users enter (links, text, contacts, images) is never uploaded to any server.
+
+## Tools
+- URL QR: https://qrzo.com/tools/url-qr.html
+- Text QR: https://qrzo.com/tools/text-qr.html
+- WiFi QR: https://qrzo.com/tools/wifi-qr.html
+- Contact (vCard) QR: https://qrzo.com/tools/vcard-qr.html
+- Email QR: https://qrzo.com/tools/email-qr.html
+- SMS QR: https://qrzo.com/tools/sms-qr.html
+- Event QR: https://qrzo.com/tools/event-qr.html
+- QR Scanner & Decoder: https://qrzo.com/tools/qr-scanner.html
+
+## Monetization & affiliations
+Qrzo may display advertising via Google AdSense and participates in the Amazon Associates program (tag qrzo-20). These are independent affiliations; the tools themselves are free and do not require payment.
+
+## Location
+Homepage: https://qrzo.com/
+Privacy Policy: https://qrzo.com/privacy.html
